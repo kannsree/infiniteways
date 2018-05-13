@@ -1,3 +1,3 @@
 # infiniteways
 
-<b>Resources</b>
+<b>Resources</b> for infiniteways.cu.ma
